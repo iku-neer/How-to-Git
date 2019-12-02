@@ -17,3 +17,7 @@
 1. 해당 히스트로리를 우클릭
 2. Branch클릭후 New Branch해준다.
 이런식으로 되돌아가는걸 Check Out이라하는데, SoruceTree에서는 Branch로 쉽게 클릭으로 할 수 있다.
+
+# Merge 방법
+1. Master 브랜치를 포커스해주고
+2. 원하는 병합 브랜치를 우클릭후 Merge해준다.
